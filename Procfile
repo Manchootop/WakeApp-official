@@ -1,1 +1,0 @@
-web: gunicorn WakeApp WakeApp.wsgi
